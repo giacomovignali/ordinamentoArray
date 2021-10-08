@@ -24,3 +24,16 @@ C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\Ordinam
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.dll
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
 C:\Users\prof.lucchi\Documents\Ov1\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.genruntimeconfig.cache
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.exe
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.deps.json
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.runtimeconfig.json
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.runtimeconfig.dev.json
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.dll
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\bin\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.csproj.AssemblyReference.cache
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.AssemblyInfoInputs.cache
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.AssemblyInfo.cs
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.csproj.CoreCompileInputs.cache
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.dll
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.pdb
+C:\Users\giacomo.vignali\Desktop\progettoOrdina\OrdinamentoVettori\OrdinamentoVettori\OrdinamentoVettori\obj\Debug\netcoreapp3.1\OrdinamentoVettori.genruntimeconfig.cache
